@@ -4,14 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83089ba1-421c-4356-bf17-096c1ab1aa47" name="Changes" comment="" />
+    <list default="true" id="83089ba1-421c-4356-bf17-096c1ab1aa47" name="Changes" comment="new">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/main/java/ru/netology/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/main/java/ru/netology/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/db/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/src/main/java/ru/netology/Db.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/Db.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/src/main/java/ru/netology/DbSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/DbSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/src/main/java/ru/netology/MyEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/db/src/main/java/ru/netology/MyEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/df.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/df.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/ru/netology/MyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/java/ru/netology/MyService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/netology/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/netology/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -31,9 +55,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "C:/Users/Public/Downloads/maven2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="src.main.java.ru.netology" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,5 +76,9 @@
       <updated>1684226763320</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
 </project>
